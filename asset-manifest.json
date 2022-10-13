@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cheatsheet_deploy/static/css/main.06ae01fb.css",
+    "main.js": "/cheatsheet_deploy/static/js/main.d650b985.js",
+    "static/js/787.db653913.chunk.js": "/cheatsheet_deploy/static/js/787.db653913.chunk.js",
+    "index.html": "/cheatsheet_deploy/index.html",
+    "main.06ae01fb.css.map": "/cheatsheet_deploy/static/css/main.06ae01fb.css.map",
+    "main.d650b985.js.map": "/cheatsheet_deploy/static/js/main.d650b985.js.map",
+    "787.db653913.chunk.js.map": "/cheatsheet_deploy/static/js/787.db653913.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ae01fb.css",
+    "static/js/main.d650b985.js"
+  ]
+}
