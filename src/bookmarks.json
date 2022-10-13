@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Power Apps",
+        "link": "Domains",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Power Automate",
+        "link": "Domains",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Power BI",
+        "link": "Domains",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Admin Center",
+        "link": "",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "SAP BTP Cockpit",
+        "link": "",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Personal Github",
+        "link": "",
+        "image": ""
+    }
+]

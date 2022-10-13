@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Access Modifier 1",
+        "link": "",
+        "image": "../..src/ABAPimages/accessmodifier1.PNG",
+        "category": ""
+    },
+    {
+        "id": 2,
+        "name": "Access Modifier 2",
+        "link": "",
+        "image": "",
+        "category": ""
+    },
+    {
+        "id": 3,
+        "name": "Access Modifier 3",
+        "link": "",
+        "image": "",
+        "category": ""
+    }
+]

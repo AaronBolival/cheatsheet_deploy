@@ -1,0 +1,129 @@
+[
+    {
+        "id": 1,
+        "name": "NUMERIC CHECK",
+        "desc": "Used to identify if the field/variable are NUMC",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/numeric_check",
+        "category": "Function Module"
+    },
+    {
+        "id": 2,
+        "name": "ALSM_EXCEL_TO_INTERNAL_TABLE",
+        "desc": "Excel to internal table",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/ALSM_EXCEL_TO_INTERNAL_TABLE",
+        "category": "Function Module"
+    },
+    {
+        "id": 3,
+        "name": "F4_DXFILENAME_TOPRECURSION",
+        "desc": "Parameter search help for AL11",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/F4_DXFILENAME_TOPRECURSION",
+        "category": "Function Module"
+    },
+    {
+        "id": 4,
+        "name": "CL_GUI_FRONTEND_SERVICES",
+        "desc": "To upload a file from local pc",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/CL_GUI_FRONTEND_SERVICES%3D%3EGUI_UPLOAD",
+        "category": "Class, GUI_UPLOAD "
+    },
+    {
+        "id": 5,
+        "name": "BAPI_GOODSMVT_CREATE",
+        "desc": "",
+        "link": "",
+        "category": "BAPI"
+    },
+    {
+        "id": 6,
+        "name": "WS_DELIVERY_UPDATE",
+        "desc": "",
+        "link": "",
+        "category": "BAPI"
+    },
+    {
+        "id": 7,
+        "name": "BAPI_SALESORDER_CREATEFROMDAT2",
+        "desc": "",
+        "link": "",
+        "category": "BAPI"
+    },
+    {
+        "id": 8,
+        "name": "F4_FILENAME_SERVER",
+        "desc": "Parameter search help for AL11",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/F4_FILENAME_SERVER",
+        "category": "Function Module"
+    },
+    {
+        "id": 9,
+        "name": "IB_CONVERT_FROM_TIMESTAMP",
+        "desc": "Convert timestamp to int. up to 30 days only",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/IB_CONVERT_FROM_TIMESTAMP",
+        "category": "Function Module"
+    },
+    {
+        "id": 10,
+        "name": "OPEN DATASET",
+        "desc": "AL11 to ITAB sample",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/AL11%20File%20to%20ITAB%20sample",
+        "category": "ABAP sample"
+    },
+    {
+        "id": 11,
+        "name": "Field Symbol",
+        "desc": "Field Symbol sample with append initial line",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/Field%20Symbol%20sample/Field%20Symbol%20with%20append%20initial%20line",
+        "category": "ABAP sample"
+    },
+    {
+        "id": 12,
+        "name": "AT END OF , CONCATENATE",
+        "desc": "Concatenate if same",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/AT%20END%20OF%20%2C%20CONCAT",
+        "category": "ABAP sample"
+    },
+    {
+        "id": 13,
+        "name": "AT END OF , SUM",
+        "desc": "SUM inside of loop with control break",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/AT%20END%20OF%20%2C%20SUM",
+        "category": "ABAP sample"
+    },
+    {
+        "id": 14,
+        "name": "CL_SSF_XSF_UTILITIES",
+        "desc": "Get the logo using ' get_bds_graphic_as_bmp ' method",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/LOGO%20-%20CL_SSF_XSF_UTILITIES",
+        "category": "Class Method"
+    },
+    {
+        "id": 15,
+        "name": "Smart Form Sample",
+        "desc": "Smart Form",
+        "link": "https://github.com/AaronBolival/cheatsheet/tree/main/Smartform%20sample",
+        "category": "ABAP sample"
+    },
+    {
+        "id": 16,
+        "name": "Create oData",
+        "desc": "Create oData sample for sapui5",
+        "link": "https://github.com/AaronBolival/cheatsheet/tree/main/oData%20sample",
+        "category": "ABAP sample"
+    },
+    {
+        "id": 17,
+        "name": "CL_SALV_GUI_TABLE_IDA",
+        "desc": "IDA ALV using cl_salv_gui_table_ida=>create_for_cds_view",
+        "link": "https://github.com/AaronBolival/cheatsheet/blob/main/IDA%20ALV%20-%20CDS",
+        "category": "Class Method"
+    },
+    {
+        "id": 18,
+        "name": "SXPG_COMMAND_EXECUTE",
+        "desc": "Transfer the SFTP file to AL11",
+        "link": "https://github.com/AaronBolival/cheatsheet/tree/main/SFTP%20to%20AL11",
+        "category": "Function Module"
+    }
+    
+]

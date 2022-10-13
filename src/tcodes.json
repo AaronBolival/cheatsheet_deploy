@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "tcodename": "/n/IWFND/GW_CLIENT",
+        "details": ""
+    },
+    {
+        "id": 2,
+        "tcodename": "SEGW",
+        "details": ""
+    },
+    {
+        "id": 3,
+        "tcodename": "SICF",
+        "details": " "
+    },
+    {
+        "id": 4,
+        "tcodename": "/n/UI2/SEMOBJ",
+        "details": " "
+    },
+    {
+        "id": 5,
+        "tcodename": "/n/UI2/FLPD_CUST",
+        "details": " "
+    },
+    {
+        "id": 6,
+        "tcodename": "/n/UI2/FLP",
+        "details": " "
+    },
+    {
+        "id": 7,
+        "tcodename": "/n/UI2/SEMOBJ",
+        "details": " "
+    },
+    {
+        "id": 8,
+        "tcodename": "/n/IWFND/MAINT_SERVICE",
+        "details": " "
+    },
+    {
+        "id": 10,
+        "tcodename": "SMARTFORMS",
+        "details": " "
+    },
+    {
+        "id": 10,
+        "tcodename": "SE51",
+        "details": "Screen Painter"
+    },
+    {
+        "id": 11,
+        "tcodename": "SE78",
+        "details": "Printing Graphics"
+    },
+    {
+        "id": 12,
+        "tcodename": "SFP",
+        "details": "PDF Forms"
+    }
+]

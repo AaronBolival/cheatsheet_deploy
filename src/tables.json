@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "tablename": "DD01L",
+        "details": "Domains"
+    },
+    {
+        "id": 2,
+        "tablename": "DD02L",
+        "details": "SAP Tables"
+    },
+    {
+        "id": 3,
+        "tablename": "DD03L",
+        "details": "Table Fields"
+    },
+    {
+        "id": 4,
+        "tablename": "TVTA",
+        "details": "With Sales Org, Distribution Channel and Division"
+    },
+    {
+        "id": 5,
+        "tablename": "TVAKZ",
+        "details": "Sales Order Type, Sales Org, Distribution Channel, Division"
+    },
+    {
+        "id": 6,
+        "tablename": "KNVP",
+        "details": "Kunnr with Sales Org, Distribution Channel, and Division"
+    },
+    {
+        "id": 7,
+        "tablename": "MVKE",
+        "details": "Sales Data for Material. Material Number, Sales Org, Distribution Channel, Division"
+    },
+    {
+        "id": 7,
+        "tablename": "T161",
+        "details": "Purchasing Document Type. BSART field can be found in EKKO table"
+    },
+    {
+        "id": 8,
+        "tablename": "SM69",
+        "details": "For basis, SFTP -> AL11"
+    }
+]
