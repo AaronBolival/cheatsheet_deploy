@@ -38,10 +38,5 @@
         "id": 7,
         "tablename": "T161",
         "details": "Purchasing Document Type. BSART field can be found in EKKO table"
-    },
-    {
-        "id": 8,
-        "tablename": "VKM1/VKM3",
-        "details": "Release blocked order because of credit"
     }
 ]
